@@ -11,7 +11,7 @@
 
 ✅ **Результат:** Проанализированы требования, выявлены противоречия, сформулированы уточняющие вопросы.
 
-[Подробнее](https://github.com/monomonolisa/petrushka-task/blob/38acbd6e138599713206fb7ebfa52ee8ee255130/task1-requirements.md)
+[Подробнее](https://github.com/monomonolisa/petrushka-task/blob/19df2c3f2acbcd3db0ed3285e530c9a7f11d41c6/task1-requirements.md)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ✅ **Результат:** Разработан endpoint с JSON-ответом в соответствии с макетом.
 
-[Подробнее](https://github.com/monomonolisa/petrushka-task/blob/38acbd6e138599713206fb7ebfa52ee8ee255130/task2-api.md)
+[Подробнее](https://github.com/monomonolisa/petrushka-task/blob/19df2c3f2acbcd3db0ed3285e530c9a7f11d41c6/task2-api.md)
 
 ---
 
