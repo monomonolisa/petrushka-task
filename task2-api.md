@@ -10,7 +10,9 @@
 
 **Пример REST API запроса**
 
-```GET /api/v1/stores```
+```
+GET /api/v1/stores
+```
 
 ---
 
