@@ -34,5 +34,5 @@
 ---
 
 **Контакты:** 
-*[telegram](https://t.me/kh_gl)*
+*Телеграм: @kh_gl*
 *Почта: aigulhaidarowa@yandex.ru* 
